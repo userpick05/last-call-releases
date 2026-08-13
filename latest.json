@@ -1,4 +1,4 @@
 {
-  "version": "0.6.0",
-  "notes": "Health Connect metrics, meal reminders, weight progress, and OTA updates."
+  "version": "0.6.1",
+  "notes": "Meal reminders now actually fire, and Health Connect no longer re-imports the app's own weigh-ins."
 }
